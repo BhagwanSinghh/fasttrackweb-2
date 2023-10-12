@@ -1,0 +1,8 @@
+export const SUCCESS_MSG = 'Data is Save Successfully'
+export const SUCCESS_TYPE = 'success'
+export const FAILED_MSG =  'Data Failed, Please Try Again'
+export const FAILED_TYPE = 'warning'
+export const ERROR_MSG =  'Data Failed, Please Try Again'
+export const ERROR_TYPE = 'error'
+export const VALIDATION_MSG =  'Please Fill all Required Feilds'
+export const VALIDATION_TYPE = 'error'
